@@ -1,6 +1,4 @@
-# CarND-LaneLines-P1
-
-# #Finding Lane Lines on the Road Udacity - Self-Driving Car NanoDegree
+# CarND-LaneLines-P1 Finding Lane Lines on the Road Udacity - Self-Driving Car NanoDegree
 
 Overview
 
@@ -10,23 +8,6 @@ In this project you will detect lane lines in images using Python and OpenCV. Op
 
 To complete the project, two files will be submitted: a file containing project code and a file containing a brief write up explaining your solution. We have included template files to be used both for the code and the writeup.The code file is called P1.ipynb and the writeup template is writeup_template.md
 
-To meet specifications in the project, take a look at the requirements in the project rubric
-
-Creating a Great Writeup
-
-For this project, a great writeup should provide a detailed response to the "Reflection" section of the project rubric. There are three parts to the reflection:
-
-Describe the pipeline
-
-Identify any shortcomings
-
-Suggest possible improvements
-
-We encourage using images in your writeup to demonstrate how your pipeline works.
-
-All that said, please be concise! We're not looking for you to write a book here: just a brief description.
-
-You're not required to use markdown for your writeup. If you use another method please just submit a pdf of your writeup. Here is a link to a writeup template file.
 
 The Project
 
