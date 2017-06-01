@@ -25,8 +25,6 @@ I am thinking about finding the desire slope of the line. I first find that ther
 By getting all the parameter I need, I could average all the desire line by using the weight average method. I use the line length as a weight to all line segments so as to reduce the noise affection. 
 Its hard to decide how long the line should extrapolate, so I set the y coordinates the line should extend.
 
-Try your lane finding pipeline on the video below. Does it still work? Can you figure out a way to make it more robust? If you're up for the challenge, modify your pipeline so it works with this video and submit it along with the rest of your project!
-
 ### 2. Identify potential shortcomings with your current pipeline
 For the challenge part, I think that i did not do well on it. The line would shake when the the vehicle enter the no line region. Also, this method can not detect the curve line in the highway because the parameter in canny is only straight line.
 Suggest possible improvements to your pipeline
